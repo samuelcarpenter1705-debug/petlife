@@ -1,0 +1,22 @@
+# Petlife
+Git version: 2.49.0
+Github version: GitHub
+Nome do Repositório: petsmania
+Clonagem do repositório: git clone https://github.com/JesusGermanodaSilvaJunior1/petsmania
+git add: git add .
+git commit: git commit -m "comentário"
+git push: git push
+Node.js version: 22.16.0
+PHP version: 8.3.8
+MySQL version: 8.0
+Sistema Operacional version: Windows 10 Pro 64 bits
+Servidor: localhost (127.0.0.1)
+Editor de Código-fonte: Visual Studio Code
+Editor de Entidade Relacional: MySQL Workbench
+Referências Bibliográficas:
+Documentação Git
+Documentação Node.js
+Documentação PHP
+Documentação MySQL
+Framework: Laravel
+Prompt de comando: Prompt de Comando (CMD) / PowerShell
